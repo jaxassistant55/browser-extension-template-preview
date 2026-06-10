@@ -30,3 +30,5 @@ Not included: Chrome Web Store publication, developer-account setup, user accoun
 ## Revenue Boundary
 
 This public repository is a free sample and counts as $0 by itself. Money counts only after a real buyer accepts the product transfer, pays through a user-owned payment route, receives the paid bundle, and payment is posted, released, payable, or cleared.
+
+- Repo order board: https://github.com/jaxassistant55/browser-extension-template-preview/issues/1

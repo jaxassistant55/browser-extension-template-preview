@@ -23,4 +23,10 @@ https://github.com/jaxassistant55/jax-micro-offer-studio/issues/8
 - Buyer receives README/support notes and license terms.
 
 Do not post payment details, private delivery links, credentials, or buyer personal data in GitHub issues.
+## Direct Repo Order Board
 
+Use this repo-specific order board for the lowest-friction public buyer comment path:
+
+https://github.com/jaxassistant55/browser-extension-template-preview/issues/1
+
+The issue is not payment proof. It is only a public intake thread. Paid work or paid bundle transfer still requires accepted scope and external payment proof before delivery.
