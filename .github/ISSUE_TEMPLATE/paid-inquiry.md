@@ -5,6 +5,10 @@ title: "Paid inquiry: browser extension template"
 labels: paid-inquiry, needs-scope
 ---
 
+## Fastest Buyer Links
+
+- Prefilled inquiry page: https://jaxassistant55.github.io/browser-extension-template-preview/inquiry.html
+
 ## Buyer Request
 
 - Delivery channel:

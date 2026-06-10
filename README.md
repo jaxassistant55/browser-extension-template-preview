@@ -5,6 +5,7 @@ Free public preview for a Manifest V3 browser extension template.
 This repository exists as a lead surface for a paid product transfer:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/browser-extension-template.html
+- Prefilled inquiry page: https://jaxassistant55.github.io/browser-extension-template-preview/inquiry.html
 - Live free popup preview: https://jaxassistant55.github.io/browser-extension-template-preview/sample/popup.html
 - Preview builder: https://jaxassistant55.github.io/jax-micro-offer-studio/browser-extension-template-preview-builder.html
 - Order-board issue: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/8
