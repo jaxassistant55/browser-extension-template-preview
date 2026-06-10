@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Local Tab Notes Template",
+  "version": "1.0.0",
+  "description": "Offline popup notes template for browser extension starters.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
