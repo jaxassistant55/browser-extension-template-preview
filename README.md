@@ -5,6 +5,7 @@ Free public preview for a Manifest V3 browser extension template.
 This repository exists as a lead surface for a paid product transfer:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/browser-extension-template.html
+- Live free popup preview: https://jaxassistant55.github.io/browser-extension-template-preview/sample/popup.html
 - Preview builder: https://jaxassistant55.github.io/jax-micro-offer-studio/browser-extension-template-preview-builder.html
 - Order-board issue: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/8
 - Price: $29 product transfer
@@ -29,4 +30,3 @@ Not included: Chrome Web Store publication, developer-account setup, user accoun
 ## Revenue Boundary
 
 This public repository is a free sample and counts as $0 by itself. Money counts only after a real buyer accepts the product transfer, pays through a user-owned payment route, receives the paid bundle, and payment is posted, released, payable, or cleared.
-
