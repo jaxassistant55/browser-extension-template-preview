@@ -14,6 +14,20 @@ This repository exists as a lead surface for a paid product transfer:
 - Price: $29 product transfer
 - First $100 path: four paid transfers gross at least $100 before fees/refunds
 
+## Paid Offer Action Catalog
+
+Use the catalog when a buyer is not sure which route to choose. It points to the fastest paid action, structured form, order board, payment handoff, and proof rule for every current offer.
+
+- Catalog: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.html
+- Catalog release: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/tag/paid-offer-action-catalog-v1
+- Machine-readable JSON: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.json
+- CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/paid-offer-action-catalog.csv
+- Structured forms directory: https://jaxassistant55.github.io/jax-micro-offer-studio/structured-ready-forms.html
+- Payment activation after accepted scope: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+
+This repository's current route remains Browser Extension Template Preview at $29. The catalog and release are lead-routing surfaces only. Count $0 until a real buyer accepts scope, pays through a seller-controlled external route, receives delivery or transfer, and payment is posted, released, payable, or cleared.
+
 ## What Is Included Here
 
 ## First $100 Fast Start
