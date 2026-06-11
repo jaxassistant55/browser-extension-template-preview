@@ -1,5 +1,10 @@
 # Order The Browser Extension Template Transfer
 
+Structured ready-to-pay issue form:
+
+https://github.com/jaxassistant55/browser-extension-template-preview/issues/new?template=ready-to-pay-browser-extension-template-preview.yml
+
+
 Use the public preview builder first:
 
 https://jaxassistant55.github.io/jax-micro-offer-studio/browser-extension-template-preview-builder.html
@@ -53,6 +58,11 @@ Paste a seller-owned checkout, invoice, marketplace order, funded milestone, or 
 
 Do not post payment details, private delivery links, credentials, or buyer personal data in GitHub issues.
 ## Direct Repo Order Board
+
+For structured intake instead of a free-form comment, open:
+
+https://github.com/jaxassistant55/browser-extension-template-preview/issues/new?template=ready-to-pay-browser-extension-template-preview.yml
+
 
 Use this repo-specific order board for the lowest-friction public buyer comment path:
 
