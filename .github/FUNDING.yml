@@ -1,0 +1,6 @@
+# Routes GitHub's funding surface to the public paid offer and inquiry paths.
+# These are not payment links; external payment proof is still required.
+custom:
+  - https://jaxassistant55.github.io/jax-micro-offer-studio/browser-extension-template.html
+  - https://jaxassistant55.github.io/browser-extension-template-preview/inquiry.html
+  - https://github.com/jaxassistant55/browser-extension-template-preview/issues/1
