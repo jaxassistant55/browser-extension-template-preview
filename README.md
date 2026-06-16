@@ -69,6 +69,19 @@ Not included: Chrome Web Store publication, developer-account setup, user accoun
 
 Use this handoff only after a real buyer selects Browser Extension Template Preview, pastes the exact acceptance statement, and you have a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request URL. The handoff page and generated message count $0 until external payment proof, delivery proof, and posted/released/payable/cleared funds exist.
 <!-- standalone-payment-handoff:end -->
+
+<!-- standalone-one-sale-payment-packet:start -->
+## One-sale payment packet after exact acceptance
+
+- Packet: https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-payment-packets.html
+- Route: Browser Extension Template Preview ($29)
+- Use this only after a real buyer selects this route and accepts scope or transfer terms.
+- Paste only a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request URL.
+- Keep private files, payment screenshots, credentials, tax data, and delivery links out of public GitHub pages/issues.
+- This page is not payment proof; count money only after accepted terms, external payment proof, delivery proof, and posted/released/payable/cleared funds.
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+- This route is below the one-sale-to-$100 threshold as listed; use the packet index only after the buyer moves into a $100+ one-sale route.
+<!-- standalone-one-sale-payment-packet:end -->
 ## Revenue Boundary
 
 This public repository is a free sample and counts as $0 by itself. Money counts only after a real buyer accepts the product transfer, pays through a user-owned payment route, receives the paid bundle, and payment is posted, released, payable, or cleared.
