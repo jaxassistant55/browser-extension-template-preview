@@ -23,6 +23,11 @@ body:
         Route-specific payment handoff after exact acceptance:
         https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html#browser-extension-template-preview
 
+        One-sale payment packet index:
+        https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-payment-packets.html
+
+        This route is below the one-sale-to-$100 threshold. Use the packet index only if the buyer moves into a $100+ one-sale route; otherwise use the standalone payment handoff below.
+
         Exact acceptance statement to paste below:
         I accept the Browser Extension Template Preview transfer terms at $29. I understand work or transfer starts only after seller-owned external payment proof exists; I will provide only public or buyer-owned/buyer-authorized non-sensitive inputs; the deliverable is limited to the public preview, README/ORDER scope, and accepted ready-to-pay form details; and credentials, account login work, unauthorized private files, confidential regulated data handling, purchasing, publishing changes, ongoing support, custom implementation beyond the accepted scope, or extra revisions are not included unless separately agreed before payment.
   - type: textarea
