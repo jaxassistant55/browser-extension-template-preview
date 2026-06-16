@@ -57,6 +57,18 @@ The paid transfer can include the full private bundle, README, listing/support n
 
 Not included: Chrome Web Store publication, developer-account setup, user account creation, payment/tax setup, guaranteed approval, or platform-specific support.
 
+<!-- standalone-payment-handoff:start -->
+## Direct Payment Handoff After Exact Acceptance
+
+- Route-specific payment handoff: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html#browser-extension-template-preview
+- Ready-to-pay form: https://github.com/jaxassistant55/browser-extension-template-preview/issues/new?template=ready-to-pay-browser-extension-template-preview.yml
+- Standalone terms: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-offer-terms.html#browser-extension-template-preview
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+- Invoice line: Browser Extension Template Preview paid transfer - $29
+- Gross sales needed to reach $100: 4
+
+Use this handoff only after a real buyer selects Browser Extension Template Preview, pastes the exact acceptance statement, and you have a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request URL. The handoff page and generated message count $0 until external payment proof, delivery proof, and posted/released/payable/cleared funds exist.
+<!-- standalone-payment-handoff:end -->
 ## Revenue Boundary
 
 This public repository is a free sample and counts as $0 by itself. Money counts only after a real buyer accepts the product transfer, pays through a user-owned payment route, receives the paid bundle, and payment is posted, released, payable, or cleared.
